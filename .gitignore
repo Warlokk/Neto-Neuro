@@ -1,0 +1,10 @@
+#игнорируем папку tmp
+tmp/
+#игнорируем файлы old и backup
+*_old
+*_backup
+#игнор thumbs и ds_store
+Thumbs.db
+.DS_store
+
+
